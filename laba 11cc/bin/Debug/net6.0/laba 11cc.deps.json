@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "laba 11cc/1.0.0": {
+        "runtime": {
+          "laba 11cc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laba 11cc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
